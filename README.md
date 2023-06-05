@@ -1,5 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakaosame&label=Profile%20views&color=3c6986&style=flat-square" alt="yakaosame" /> </p>
-
+<h3 align="left">こんにちは:</h3>
 <p align="left">
 </p>
 
