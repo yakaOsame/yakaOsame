@@ -1,4 +1,4 @@
-<h3 align="left">こんにちは:</h3>
+<h3 align="left">こんにちは！</h3>
 <p align="left">
 </p>
 
